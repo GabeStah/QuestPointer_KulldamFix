@@ -1,0 +1,13 @@
+tag v7
+b2dbdd410567405607942b8595fc0bf7b56165b6
+root <root@db06.curselive.local>
+2010-11-24 05:28:51 +0000
+
+Tagging as v7
+
+
+--------------------
+
+David Lynch:
+	- Update Astrolabe to 1.0 (r116)
+	- Apply Adrielle's patch.
